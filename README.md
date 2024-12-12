@@ -8,10 +8,10 @@
 <img src="https://media2.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif?cid=ecf05e47ot9ej3657scll8evgmu0okov4ehohagfunabol8j&rid=giphy.gif&ct=g" height="350px" width="100%" >
 
 ## 🛠️ Built with :
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/netlify%20-%2300C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/> 
+<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img 
 - **Frontend**: HTML, CSS, Javascript
 - **Version Control**: Git
-- **Hosting**: Netlify, Github Pages
+- **Hosting**:Vercel
 
 ## ✨ Features :
 - Step-by-step animation of the algorithm
