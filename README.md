@@ -1,12 +1,9 @@
 # <img src="https://media2.giphy.com/media/kkCsb4kKRQOzPPDBGL/giphy.gif?cid=ecf05e4731jqkbjr0mvdngqz6hi78xd0pkrlqhbhqq3webnf&rid=giphy.gif&ct=s" height="40px"> Algorithm Visualizer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6adb0f19-ac48-45e2-a896-9f6ac6d2f620/deploy-status)](https://app.netlify.com/sites/sayancr777-algorithm-visualizer/deploys)
 
 >```Algorithm Visualizer``` is an interactive way and platform that visualize the algorithms in four main domain i.e. Trie data structure, Binary Search Tree, Path Finding and Sort Visual algorithm. The project focuses on visualizng 📊 the algorithm and try to make easier to understand and learn the algorithm.
 
-Author : [Sayan Maity](sayancr777@gmail.com)
+
 
 <img src="https://media2.giphy.com/media/6wa5vuYvetU1Jibm13/giphy.gif?cid=ecf05e47ot9ej3657scll8evgmu0okov4ehohagfunabol8j&rid=giphy.gif&ct=g" height="350px" width="100%" >
 
@@ -36,30 +33,30 @@ Will be added sonner ...
 <table>
     <tr>
         <td colspan="2">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/home-page.jpeg"></img>
+            <img src="https://github.com/Verma-Himanshu-22/Algorithm-Visualizer/tree/main/assets/home-page.jpeg"></img>
             <br />
             <h3 align="center">Home Page</h3>
         </td>
     </tr>
     <tr>
         <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/trie-preview.jpg"></img>
+            <img src="https://github.com/Verma-Himanshu-22/Algorithm-Visualizer/tree/main/assets/trie-preview.jpg"></img>
             <br />
             <p align="center">Trie </p>
         </td>
         <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/preview2.jpg"></img>
+            <img src="https://github.com/Verma-Himanshu-22/Algorithm-Visualizer/tree/main/assets/preview2.jpg"></img>
             <br />
             <p align="center">Binary Search Tree</p>
         </td>
     </tr>
     <tr>
         <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/path-preview.jpg"></img>
+            <img src="https://github.com/Verma-Himanshu-22/Algorithm-Visualizer/tree/main/assets/path-preview.jpg"></img>
             <br />
             <p align="center">Path Finding</p></td>
         <td width="50%">
-            <img src="https://github.com/Sayan-Maity/Algorithm-Visualizer/blob/main/assets/sorting-preview.jpg"></img>
+            <img src="https://github.com/Verma-Himanshu-22/Algorithm-Visualizer/tree/main/assets/sorting-preview.jpg"></img>
             <br />
             <p align="center">Sorting</p>
         </td>
@@ -77,8 +74,5 @@ Will be added sonner ...
 
 We welcome contributions! If you have an idea for a new feature or have found a bug, please open an issue on Github. 
 
-## 📝 Endnote
-So if you have liked this project then do consider giving it a star which will encourage me to build more of this kind of projects in future and also if you want youcan follow me on [Github](https://github.com/Sayan-Maity/) 😊
-Keep Coding !
 
-<p align="right">~ Sayan Maity</p>
+
